@@ -15,15 +15,5 @@ namespace TestHH
         {
             InitializeComponent();
         }
-
-        private void cộng_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
